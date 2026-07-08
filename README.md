@@ -7,7 +7,7 @@
 ![DAX](https://img.shields.io/badge/DAX-01A88D?style=flat)
 ![Power Query](https://img.shields.io/badge/Power%20Query%20(M)-4B0082?style=flat)
 
-**🔗 [Ver dashboard ao vivo](COLE_AQUI_O_LINK_PUBLICADO)** · publicado no Power BI Service
+**🔗 [Ver dashboard ao vivo](https://app.powerbi.com/view?r=eyJrIjoiMGZiYzBlNWItNzBlNi00OTVhLTk4ZDgtOGMxNDI0MmQwYzdmIiwidCI6ImU4MmU1OWEwLWY0YTAtNDNmMC1iM2E5LTIwMDZjNjdmMGQ2NiJ9)** · publicado no Power BI Service
 
 ---
 
@@ -82,4 +82,4 @@ Excel e Power BI foram ferramentas co-principais: como o Power Query e o Power P
 Projeto de portfólio em Análise de Dados, com foco em fundamentos bem executados e **narrativa de negócio** acima de sofisticação técnica desnecessária.
 _Cliente fictício, criado para simular um contexto real. O dado é público (Kaggle)._
 
-**Autor:** Lucas Fontez · 🔗 [GitHub](https://github.com/Lucasfontez) · [LinkedIn](COLE_AQUI_SEU_LINKEDIN)
+**Autor:** Lucas Fontes · 🔗 [GitHub](https://github.com/Lucasfontez) · [LinkedIn](https://www.linkedin.com/in/lucassfontesc/)
