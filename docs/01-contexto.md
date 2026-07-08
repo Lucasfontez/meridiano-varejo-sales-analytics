@@ -1,11 +1,5 @@
 # 01 · Contexto e escopo
 
-## Como o projeto começou
-
-Antes de escolher, avaliei três datasets de vendas do Kaggle — ZARA, Amazon e Retail Sales. Descartei os dois primeiros por um motivo técnico, não de gosto: o de ZARA é um _snapshot_ raspado num único ponto no tempo (sem série temporal) e o "Amazon Sales" não tem venda nem data — é um catálogo de preço e reputação. Só o **Retail Sales** é transacional de verdade, com **data + demografia**, que é onde o Power BI mostra o que tem de melhor (_time intelligence_, segmentação, valor do cliente).
-
-Escolher pelo que o dado **realmente permite**, e não pelo nome do arquivo, já foi a primeira decisão de analista do projeto.
-
 ## O cliente (fictício)
 
 Para dar contexto de negócio ao trabalho, criei um cliente fictício: a **Meridiano Varejo**, uma rede de médio porte que vende três categorias — Eletrônicos, Vestuário e Beleza. O cenário: a área comercial tem um ano de dados de vendas parado numa planilha e decide no _feeling_ — quando fazer promoção, para quem direcionar campanha, em qual categoria investir. Ninguém consegue olhar para o dado e responder pergunta simples.
