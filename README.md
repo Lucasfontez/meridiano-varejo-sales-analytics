@@ -2,11 +2,6 @@
 
 > Dashboard executivo de vendas em **Power BI**, do dado bruto à narrativa de negócio: ETL reprodutível, modelo dimensional, camada DAX de _time intelligence_ e uma análise que testa hipóteses em vez de só descrever números.
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-01A88D?style=flat)
-![Power Query](https://img.shields.io/badge/Power%20Query%20(M)-4B0082?style=flat)
-
 **🔗 [Ver dashboard ao vivo](https://app.powerbi.com/view?r=eyJrIjoiMGZiYzBlNWItNzBlNi00OTVhLTk4ZDgtOGMxNDI0MmQwYzdmIiwidCI6ImU4MmU1OWEwLWY0YTAtNDNmMC1iM2E5LTIwMDZjNjdmMGQ2NiJ9)** · publicado no Power BI Service
 
 ---
